@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"Release_Issue.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"Release_Issue.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
